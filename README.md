@@ -1,6 +1,6 @@
 # Biografi 
-Saya adalah konten kreator dan web development berbasis HTML yg berfokus pada pengembangan script kustom.
+Saya adalah konten kreator dan web development berbasis HTML yg berfokus pada pengembangan script kustom untuk CMS Blogger.
 
-### Hubungi Saya:
-- Website: [Offense Project](https://offenseproject.my.id)
-- GitHub: [@offenseproject](https://github.com/offenseproject)
+### Social Media:
+- Tiktok  : ([https://offenseproject.my.id](https://www.tiktok.com/@offenseproject))
+- Youtube : [@offenseproject]([https://github.com/offenseproject](https://www.youtube.com/@offense.project))
