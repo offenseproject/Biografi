@@ -1,8 +1,6 @@
-# Halo, Saya Offense Project! 👋
-
-- 🚀 Digital creator dan web developer dari Indonesia.
-- 💻 Fokus pada pengembangan script kustom, tema Blogger, dan pengarsipan software.
+# Biografi 
+Saya adalah konten kreator dan web development berbasis HTML yg berfokus pada pengembangan script kustom.
 
 ### Hubungi Saya:
-- Website: [Offense Project](https://offenseproject.com)
+- Website: [Offense Project](https://offenseproject.my.id)
 - GitHub: [@offenseproject](https://github.com/offenseproject)
